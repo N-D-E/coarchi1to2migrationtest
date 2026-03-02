@@ -5,6 +5,7 @@
     <element xsi:type="archimate:BusinessProcess" name="Business Process 1" id="id-0b14cf5a9b214d18a7ab06ffdeb01ac2"/>
     <element xsi:type="archimate:BusinessProcess" name="Business Process 2" id="id-718f222faea74479b8846999739e8a9c"/>
     <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-f6ba6b0d84f945ceb0265db31631cb4d"/>
+    <element xsi:type="archimate:BusinessActor" name="Change 2 after branch" id="id-aaabe59d1f45462faf078c644ee1fe8f"/>
   </folder>
   <folder name="Application" id="id-bbf5db1e0b1d4200a89eea86d9aa9ab5" type="application">
     <element xsi:type="archimate:DataObject" name="Data Object" id="id-a5be1eb638fb4d07ae2f5b9e3c632a09"/>
@@ -69,6 +70,9 @@
       <child xsi:type="archimate:Note" id="id-83a048a3fecf4ce5a00689db3562b6e0" textAlignment="1">
         <bounds x="230" y="272" width="185" height="80"/>
         <content>Make change.</content>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-7e099c398b0344cf9577235180d8cbad" archimateElement="id-aaabe59d1f45462faf078c644ee1fe8f">
+        <bounds x="1262" y="348" width="120" height="55"/>
       </child>
     </element>
   </folder>
