@@ -66,6 +66,10 @@
         <bounds x="574" y="468" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-6e03eacd27da41ffbc25d24a00fe26c4" source="id-051874b6d8654e02bba11bddee1195c1" target="id-7c8f5ceec02348d58e93b9c9353bfc8b" archimateRelationship="id-d3fa4578971f44978783a4d94649c033"/>
       </child>
+      <child xsi:type="archimate:Note" id="id-83a048a3fecf4ce5a00689db3562b6e0" textAlignment="1">
+        <bounds x="230" y="272" width="185" height="80"/>
+        <content>Make change.</content>
+      </child>
     </element>
   </folder>
 </archimate:model>
